@@ -1,0 +1,34 @@
+{
+    "name": "Giant Seagrass",
+    "symbol": "Seagrass",
+    "description": "Giant Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢!",
+    "seller_fee_basis_points": 1000,
+    "image": "img/seagrass.png",
+    "animation_url": "",
+    "external_url": "",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "★✰✰✰✰"
+        }
+    ],
+    "collection": {
+        "name": "Scallop Decorations",
+        "family": "Scallop"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/db-4bKiCe2gg7hIGns2ij8v9bJ8ciqWXXT9C2x6UOmQ",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "KrissMPQgGFjNJMi1j4MJ9aeuD1REhFgFhJVRDUoKGR",
+                "share": 100
+            }
+        ]
+    }
+}
