@@ -1,15 +1,15 @@
 {
-    "name": "Giant Seagrass",
-    "symbol": "Seagrass",
-    "description": "Giant Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢!",
+    "name": "Scallop Fossil",
+    "symbol": "Fossil",
+    "description": "There were archaeologists found Scallop fossils on Mount Everest🏔!",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/seagrass.png",
+    "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/fossil.png",
     "animation_url": "",
     "external_url": "https://scallop.io",
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "★★★✰✰"
+            "value": "★★★★★"
         }
     ],
     "collection": {
@@ -19,7 +19,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/seagrass.png",
+                "uri": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/fossil.png",
                 "type": "image/png"
             }
         ],
