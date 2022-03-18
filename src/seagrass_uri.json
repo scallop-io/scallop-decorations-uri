@@ -1,6 +1,6 @@
 {
-    "name": "Scallop Fossil Decorations",
-    "symbol": "Fossil",
+    "name": "Giant Seagrass",
+    "symbol": "gSeagrass",
     "description": "Giant Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢!",
     "seller_fee_basis_points": 1000,
     "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/seagrass.png",
