@@ -5,7 +5,7 @@
     "seller_fee_basis_points": 1000,
     "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/seagrass.png",
     "animation_url": "",
-    "external_url": "",
+    "external_url": "https://scallop.io",
     "attributes": [
         {
             "trait_type": "Rarity",
