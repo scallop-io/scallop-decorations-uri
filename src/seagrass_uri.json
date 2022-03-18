@@ -1,7 +1,7 @@
 {
-    "name": "Giant Seagrass",
+    "name": "Seagrass Decorations",
     "symbol": "Seagrass",
-    "description": "Giant Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢!",
+    "description": "Seagrass can reach heights of 200 feet (60m), which is as tall as a 20-story building🏢!",
     "seller_fee_basis_points": 0,
     "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/seagrass.png",
     "animation_url": "",
@@ -9,7 +9,7 @@
     "attributes": [
         {
             "trait_type": "Rarity",
-            "value": "★★★✰✰"
+            "value": "★✰✰✰✰"
         }
     ],
     "collection": {
