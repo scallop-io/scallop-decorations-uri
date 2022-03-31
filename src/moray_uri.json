@@ -2,7 +2,7 @@
     "name": "Moray Decorations",
     "symbol": "Moray",
     "description": "Moray eels have two jawbones, after finding the target, the eel will bite it and the second jaw will jump out of the throat, and then drag the food into their stomach 💀!",
-    "seller_fee_basis_points": 0,
+    "seller_fee_basis_points": 500,
     "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/moray.png",
     "animation_url": "",
     "external_url": "https://scallop.io",
