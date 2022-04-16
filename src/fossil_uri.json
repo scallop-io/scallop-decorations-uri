@@ -3,7 +3,7 @@
     "symbol": "Fossil",
     "description": "There were archaeologists found Scallop fossils on Mount Everest🏔!",
     "seller_fee_basis_points": 0,
-    "image": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/fossil.png",
+    "image": "https://raw.githubusercontent.com/scallop-io/scallop-decorations-uri/master/img/fossil.png",
     "animation_url": "",
     "external_url": "https://scallop.io",
     "attributes": [
@@ -19,7 +19,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/scallop-labs/scallop-decorations-uri/master/img/fossil.png",
+                "uri": "https://raw.githubusercontent.com/scallop-io/scallop-decorations-uri/master/img/fossil.png",
                 "type": "image/png"
             }
         ],
