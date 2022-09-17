@@ -1,0 +1,34 @@
+{
+    "name": "Urchin Decorations",
+    "symbol": "Urchin",
+    "description": "Urchin lives on the seabed of every ocean and inhabits every depth zone, the closest echinoderm relatives are the sea cucumbers. Urchin is popular in aquariums, where they are useful for controlling algae. Fossil urchins have been used as protective amulets.",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/scallop-io/scallop-decorations-uri/master/img/urchin.png",
+    "animation_url": "",
+    "external_url": "https://scallop.io",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "★★✰✰✰"
+        }
+    ],
+    "collection": {
+        "name": "Scallop Decorations",
+        "family": "Scallop"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/scallop-io/scallop-decorations-uri/master/img/urchin.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "KrissMPQgGFjNJMi1j4MJ9aeuD1REhFgFhJVRDUoKGR",
+                "share": 100
+            }
+        ]
+    }
+}
